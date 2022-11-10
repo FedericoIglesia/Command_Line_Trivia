@@ -2,6 +2,8 @@ Command Line Trivia Game!
 
 Just type in your name and start playing!
 
+Answer all questions correctly and win a billion
+
 To run -> clone repo and locally run npm i, and then node . or node index.js
 
 
